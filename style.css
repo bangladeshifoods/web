@@ -1,0 +1,67 @@
+.one h1{
+    color: crimson;
+}
+.one{
+    background-image: url(images/header-bg.png);
+}
+.one p{
+    color: darkblue;
+}
+.bio p {
+    color: rgb(51, 114, 26);
+}
+.bio{
+
+}
+
+.half-sec{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 15%;
+
+}
+
+.half-se{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+section{
+    height: 500px;
+ 
+
+}
+#black{
+    color: rgb(34, 75, 43);
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, darkmagenta,rgb(66, 32, 82));
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 400;
+    color: white;    
+}
+.link-buton{
+    text-decoration: none;
+    background-image: linear-gradient(90deg,green,rgb(199, 221, 99));
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 400;
+    color: whitesmoke;
+}
+
+.half-se img{
+    width: 100%;
+}
+.bio{
+    background-image: url(images/biography-bg.png);
+    
+    
+}
